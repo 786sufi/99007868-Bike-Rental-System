@@ -1,6 +1,6 @@
 # HIGH LEVEL REQUIREMENT
 - |HLRID| | Description |
-- |-----| |-------------|
+- | --- | -- |
 - |HLR01| | To display bikes available for rent |
 - |HLR02| | Should ask for number of bikes required for renting |
 - |HLR03| | Display the charges for renting the bikes | 
