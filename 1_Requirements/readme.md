@@ -35,3 +35,8 @@
 # HOW 
 - by managing the users demand and through administrative use 
 
+# SWOT
+
+![SWOT bikeRental_page-0001](https://user-images.githubusercontent.com/99130145/163729182-15487a31-a3c8-437d-9b9e-3ad4bcbea74d.jpg)
+
+
