@@ -27,7 +27,7 @@
 - Provides bikes for renting to those who don't own bikes
 
 # WHERE
-- Can be used in demanding situations and for use of tourists and visitors 
+- Can be used in demanding situations like bike rally and for use of tourists and visitors 
 
 # WHO
 - Renatl agency owners can easily implement this system and use it
