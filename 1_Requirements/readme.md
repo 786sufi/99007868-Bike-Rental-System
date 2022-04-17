@@ -18,3 +18,20 @@
 | LR06| HLR04| Stock must be updated after returning the bike |
 | LR07| HLR05| Thank you message after exiting|
 
+# 5Ws and 1Hs
+
+# WHAT 
+- System to provide bikes for renting
+
+# WHY
+- Provides bikes for renting to those who don't own bikes
+
+# WHERE
+- Can be used in demanding situations and for use of tourists and visitors 
+
+# WHO
+- Renatl agency owners can easily implement this system and use it
+
+# HOW 
+- by managing the users demand and through administrative use 
+
