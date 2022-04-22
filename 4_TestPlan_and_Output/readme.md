@@ -13,8 +13,8 @@
 
 | TEST ID | DESCRIPTION | INPUT | OUTPUT | TEST CASES PASSED/FAILED |
 | -- | -- | -- | -- | -- |
-| LLTP1 | shall update the stocks of bike after being rented | Stock available - Number of bike rented | PASSED | 
-| LLTP2 | shall update the stocks of bike after being returned | Stocck available + Number of bikes returned | PASSED |
+| LLTP1 | shall update the stocks of bike after being rented | Number of bikes rented | Stock available - Number of bike rented | PASSED | 
+| LLTP2 | shall update the stocks of bike after being returned | Number of bikes returned | Stocck available + Number of bikes returned | PASSED |
 
 
 
