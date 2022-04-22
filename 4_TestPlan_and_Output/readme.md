@@ -11,10 +11,10 @@
 
 # LOW LEVEL TEST PLAN 
 
-| TEST ID | DESCRIPTION | INPUT | OUTPUT |
-| -- | -- | -- | -- |
-
-
+| TEST ID | DESCRIPTION | INPUT | OUTPUT | TEST CASES PASSED/FAILED |
+| -- | -- | -- | -- | -- |
+| LLTP1 | shall update the stocks of bike after being rented | Stock available - Number of bike rented | PASSED | 
+| LLTP2 | shall update the stocks of bike after being returned | Stocck available + Number of bikes returned | PASSED |
 
 
 
