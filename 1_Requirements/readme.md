@@ -4,7 +4,7 @@
 | HLR01 | To display bikes available for rent |
 | HLR02 | Should ask for number of bikes required for renting at hourly, daily or weekly basis |
 | HLR03 | Display the charges for renting the bikes at hourly, daily or weekly basis| 
-| HLR04 | Ask for number of bikes to be returned |
+| HLR04 | Ask for number of bikes to be returned And the quantity to be returned |
 | HLR05 | Exit when Done |
 
 # LOW LEVEL REQUIREMENT 
