@@ -9,6 +9,7 @@
 # The Rental System can
 - Take requests on hourly, daily and weekly basis.
 - Display available bikes
+- Display the rate per bike
 
 # For simplicity we assume that
 - Any customer requests rentals of only one type i.e hourly, monthly or weekly
